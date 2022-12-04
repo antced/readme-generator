@@ -1,7 +1,7 @@
 
 # README Generator
 
-![badge](https://img.shields.io/badge/license-GNU-blue)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
@@ -17,7 +17,7 @@ This program generates a README file based on user input in the terminal.
 
 ## Installation
 
-npm i
+npm init and install based on package.json info.
   
 ## Usage
   
@@ -31,11 +31,11 @@ https://choosealicense.com/licenses/gpl-3.0/
 
 ## Contributing
 
-Email me
+Email me any ideas and questions.
 
 ## Tests
   
-Use the product and email me
+Use the product.
 
 ## Questions
 
